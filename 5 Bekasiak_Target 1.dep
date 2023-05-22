@@ -1,0 +1,24 @@
+Dependencies for Project '5 Bekasiak', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C81B7E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x60C9DF4C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\keyboard.h)(0x60928C70)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\servo.h)(0x60C9C5A2)
+F (.\led.c)(0x60928C60)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\led.h)(0x60C32C5E)
+I (D:\Program_files\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+F (.\keyboard.c)(0x60C97A84)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\keyboard.h)(0x60928C70)
+I (D:\Program_files\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+F (.\timer.c)(0x60C35A5E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (D:\Program_files\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\timer.h)(0x60A847CE)
+F (.\timer_interrupts.c)(0x60C042A2)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips-o .\timer_interrupts.o --omf_browse .\timer_interrupts.crf --depend .\timer_interrupts.d)
+I (D:\Program_files\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\timer_interrupts.h)(0x60C35A44)
+F (.\servo.c)(0x60C9DF0E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Program_files\Keil\ARM\RV31\INC-I D:\Program_files\Keil\ARM\CMSIS\Include-I D:\Program_files\Keil\ARM\Inc\Philips-o .\servo.o --omf_browse .\servo.crf --depend .\servo.d)
+I (D:\Program_files\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\servo.h)(0x60C9C5A2)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\led.h)(0x60C32C5E)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\keyboard.h)(0x60928C70)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\timer_interrupts.h)(0x60C35A44)
+I (C:\Users\bened\Desktop\testing\PPSW FINAL 2 semestr\PPSW FINAL 2 semestr\ODDAWANE 5-26-2021 ppsw\26-05-2021 ppsw\Benedykt Bekasiak PPSW MTM S2\Benedykt Bekasiak PPSW MTM S2\Current\9\9.3\timer.h)(0x60A847CE)
